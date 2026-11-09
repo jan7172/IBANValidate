@@ -12,7 +12,7 @@ public class IBANValidator {
                     Map.entry("CH", 21),
                     Map.entry("FR", 27),
                     Map.entry("GB", 22),
-                    Map.entry("NL", 18),
+                    Map.entry("NL", 18),//
                     Map.entry("BE", 16),
                     Map.entry("ES", 24),
                     Map.entry("IT", 27),
